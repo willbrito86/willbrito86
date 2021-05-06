@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @willbrito86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-willbrito86/willbrito86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @willbrito86, estou iniciando um Curso de Desenvolvimento de Sistema, pelo Senai : ).
 
 #include <stdio.h>
 
