@@ -1,24 +1,20 @@
-- 👋 Hi, I’m @willbrito86, estou iniciando um Curso de Desenvolvimento de Sistema, pelo Senai : ).
+## Olá, sou William Brito.
 
-#include <stdio.h>
+- Estudando e dando os primeiros passos em Front End com JS, Html e CSS com a Digital House e Desenvolvimento de Sistemas com Java no Senai Cimatec.
+- Apaixonado por tecnologia e sonhando em ingressar na area
+- Contate-me no e-mail: willsbrito@gmail.com
+-  Telefone e Whatsapp: 71 9 9196-3922
 
-// esse código vai pegar a quantidade de números citado pelo usuario e vai verificar cada um dele se é par ou impar
-// código realizado no Devc++ em linguagem C++
-int main(){
-	
-	int a, consult, c;	
+<div>
+  <a href="https://github.com/willbrito86">
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=willbrito86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=willbrito86&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-	
-	printf ("Quantos numeros deseja consultar\n?");
-	scanf ("%d", &consult);
-	
-	for (c=0; c<consult; c++){
-		printf("Qual o valor a ser verificado?\n");
-		scanf("%d", &a);
-		if(a%2==0){
-			printf("Numero par\n");
-		}else
-			printf("NUmero impar\n");
-		}
-		}
+##
+
+<div>
+   <a href = "mailto: willsbrito@gmail.com "> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+</div>
+
 	
