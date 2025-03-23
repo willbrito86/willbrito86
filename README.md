@@ -1,7 +1,7 @@
 ## Olá, sou William Brito.
 
-- 🌱Estudando e criando minhas primeiras linhas de código, em Front End com JS, Html e CSS com a Digital House e Desenvolvimento de Sistemas Web com Java no Senai             Cimatec.
-- 💻Apaixonado por tecnologia e sonhando em ingressar na area
+- 🌱Me aperfeiçoando para ingressar na area de Dados.
+- 💻Apaixonado por tecnologia e sonhando em ingressar na area.
 - 📧 Contate-me no e-mail: willsbrito@gmail.com
 - 📱  Telefone e Whatsapp: 71 9 9196-3922
 
